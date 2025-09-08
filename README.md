@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm <br>
+        I'm Adnan,<br>
         Currently working on Ruby On Rails and ReactJs as a full stack dev.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
